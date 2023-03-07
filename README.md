@@ -1,2 +1,2 @@
 # demo-repo
-DEmo is the fist commit.
+DEmo is the fist commit!
